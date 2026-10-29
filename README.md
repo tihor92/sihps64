@@ -4,7 +4,7 @@ A single-window, cross-bureau web platform built for authorized **All India Coun
 
 Designed according to council specifications in `frontend.md` and `backend.md`.
 
----
+----
 
 ## 🌟 Core Features & Innovations
 
